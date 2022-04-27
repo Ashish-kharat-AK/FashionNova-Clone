@@ -46,6 +46,8 @@ Along with that, in order to store user data and product data we also used Local
 <li>Github : https://github.com/Salman-2523</li>
 <h3>Kalyani Sahu</h3>
 <li>Github : https://github.com/KalyaniSahu879</li>
+<h3>Ashish Kharat</h3>
+<li>Github : https://github.com/Ashish-kharat-AK/Ashish-kharat-AK</li>
 
 ## Blog and deploy link:
 
